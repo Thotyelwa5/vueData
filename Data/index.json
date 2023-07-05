@@ -3,36 +3,42 @@
         {
         "id": 1,
         "name": "Aphelele Joyi",
+        "subject": "Colleague",
         "imgUrl":"https://i.postimg.cc/BvCmhm9J/C12-Aphelele-Joyi-1.jpg",
         "description": "Thotyelwa is an industrious individual who consistently seeks opportunities for growth and refinement in her work, demonstrating resilience and determination in overcoming challenges, showcasing her exceptional qualities as a woman."
     },
             {
         "id": 2,
         "name": "Codi Kader",
+        "subject": "Colleague",
         "imgUrl":"https://i.postimg.cc/cC1y9v5b/C12-C2-Codi-Kader-1.jpg",
         "description": "Thotyelwa  is a highly thought intellectual from my perspective. She is kind, passionate, ambitious, and hardworking."
     },   
     {
         "id": 3,
         "name": "Kamvelihle Sikalana",
+        "subject": "Colleague",
         "imgUrl":"https://i.postimg.cc/9f2xtvkx/C12-C2-Kamvelihle-Sikalana-1.jpg",
         "description": "Thotyelwa is a hard working individual, who always finds ways to improve her craft. Having a positive mindset always her to tackle her hardships. A truly exceptional woman."
     },
     {
         "id": 4,
         "name": "Seth Kallis",
+        "subject": "Student Lecture",
         "imgUrl":"https://i.postimg.cc/sggRzHy0/image.jpg",
         "description": "Thotyelwa is dedicated, hard working and a team player.She works well with her peers and performs well on her projects.She has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have her."
     },  
      {
         "id": 5,
         "name": "Nuraan Samsodien",
+        "subject": "Colleague",
         "imgUrl":"https://i.postimg.cc/VLjHhqCZ/C12-C2-Nuraan-Samsodien-1.jpg",
         "description": "Thotyelwa, is a very determined, passionate and kind young woman. She is going to do great things in the IT sector. You can count on that, she strives her best to make sure that all her deadlines & work is done as soon as possible and correctly as possible."
     },
     {
         "id": 6,
         "name": "Siyamanga Zweni",
+        "subject": "Colleague",
         "imgUrl":"https://i.postimg.cc/rFbBzntj/C12-C2-Siyamanga-Zweni-3.jpg",
         "description": "Thotyelwa  is a highly thought intellectual from my perspective. She is kind, passionate, ambitious, and hardworking. She has great communication skills and is an absolute pleasure in the work place. Any company would be lucky to have her on their team. She also has the best smile with the most positive attitude!"
     }
@@ -123,32 +129,35 @@
         {
             "id":1,
             "name": "HTML",
-            "imgUrl": "https://i.postimg.cc/TP7Pv00q/html-lohgo-1.png"
+            "imgUrl": "https://i.postimg.cc/TP7Pv00q/html-lohgo-1.png",
+            "description": "I can structure web pages efficiently and semantically, ensuring optimal performance and accessibility. "
             
         },
         {
             "id":2,
             "name": "CSS",
-            "imgUrl": "https://i.postimg.cc/wT7cC4kF/CSS-Logo-1.png"
+            "imgUrl": "https://i.postimg.cc/wT7cC4kF/CSS-Logo-1.png",
+            "description": "I have a strong command of CSS, enabling me to create visually stunning and customized styles for websites."
             
         },
         {
             "id":3,
             "name": "Bootstrap",
-            "imgUrl": "https://i.postimg.cc/j2r2M5vG/bootstrap-logo-1.png"
+            "imgUrl": "https://i.postimg.cc/j2r2M5vG/bootstrap-logo-1.png",
+            "description": "Proficient in Bootstrap, I leverage its powerful framework to create responsive and intuitive layouts, saving development time."
             
         },
         {
             "id":4,
             "name": "Javascript",
-            "imgUrl": "https://i.postimg.cc/hPnvRXgj/java-logo.png"
-            
+            "imgUrl": "https://i.postimg.cc/hPnvRXgj/java-logo.png",
+            "description": " I utilize JavaScript to add interactivity and dynamic functionality to websites, enhancing the my experience."
         },
         {
             "id":5,
             "name": "Vuejs",
-            "imgUrl": "https://i.postimg.cc/gJd8Jm6q/vuejs-logo.png"
-           
+            "imgUrl": "https://i.postimg.cc/gJd8Jm6q/vuejs-logo.png",
+            "description": "Experienced in Vue.js 3, I develop scalable and efficient single-page applications, leveraging its reactivity and component-based architecture."
         }
     ]
     
