@@ -159,6 +159,14 @@
             "imgUrl": "https://i.postimg.cc/gJd8Jm6q/vuejs-logo.png",
             "description": "Experienced in Vue.js 3, I develop scalable and efficient single-page applications, leveraging its reactivity and component-based architecture."
         }
+    ],
+    "CV":[ 
+        {
+            "id":1,
+            "cvurl": "file:///C:/Users/Student/Downloads/Thotyelwa%20Mpongwa%20CV%20(1).pdf"
+
+    }
+
     ]
     
 }
