@@ -159,14 +159,7 @@
             "imgUrl": "https://i.postimg.cc/gJd8Jm6q/vuejs-logo.png",
             "description": "Experienced in Vue.js 3, I develop scalable and efficient single-page applications, leveraging its reactivity and component-based architecture."
         }
-    ],
-    "CV":[ 
-        {
-            "id":1,
-            "cvurl": "https://drive.google.com/file/d/1Pazz8UTMa6Sa8VkmOx7SjA3nl_7bkI0z/view?usp=drive_link"
-
-    }
-
     ]
+   
     
 }
